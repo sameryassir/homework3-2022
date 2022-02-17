@@ -113,7 +113,7 @@ nav a:focus {
 
 /* Requirements 6-10 here: */
 .intro {
-  background-color: #858585;
+  background-color: #707070;
   background-image: url(../images/header.jpg);
   min-height: 400px;
   background-attachment: fixed;
